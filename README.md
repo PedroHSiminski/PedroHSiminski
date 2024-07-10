@@ -6,6 +6,7 @@
   <li>👤 Customer Experience.</li>
   <li>🌎 Fluência em Inglês.</li>
   <li>🚀 Banco de dados.</li>
+  <li> 📈 QA Testing. </li>
 </ul>
 
 
