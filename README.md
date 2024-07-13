@@ -1,7 +1,7 @@
 <h1>Olá, me chamo Pedro Siminski!</h1>
 
 <ul>
-  <li>💻 Cursando Ciência da Programação.</li>
+  <li>💻 Cursando Ciência da Computação.</li>
   <li>👨‍💻 Amante de tecnologias Front-end.</li>
   <li>👤 Customer Experience.</li>
   <li>🌎 Fluência em Inglês.</li>
