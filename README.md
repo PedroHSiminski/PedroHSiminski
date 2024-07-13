@@ -1,4 +1,4 @@
-<h1>Olá, me chamo Pedro Siminski!</h1>
+<h1>Olá, me chamo Pedro Henrique Siminski!</h1>
 
 <ul>
   <li>💻 Cursando Ciência da Computação.</li>
