@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">💻 Cursando Ciência da Computação;<br> 👨‍💻 Front-end Developer;<br>  👤 Customer Experience;<br>  🌎 Fluência em Inglês;<br>  🚀 Banco de dados;<br>   📈 QA Testing.</p>
+<p align="left">💻 Cursando Bacharel em Inteligência Artificial;<br> 👨‍💻 AI Analyst;<br>  👤 Customer Experience;<br>  🌎 Fluência em Inglês;<br>  📈  Data Analyst;<br>   🗓️Promtping Engineering.</p>
 
 ###
 
